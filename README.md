@@ -4,7 +4,7 @@
 
 https://github.com/Mehrsa-Mohajeri-Developer/Cornometer/assets/145048780/af0a2770-3489-4ea0-ba86-3ff2d0a73c6c
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Cornometer/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Cornometer/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
